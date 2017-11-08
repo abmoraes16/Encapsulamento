@@ -183,11 +183,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\41346828865\\Encapsulamento\\Dados\\Dados.csproj",
+      "projectUniqueName": "c:\\Users\\41346828865\\Encapsulamento\\Dados\\Dados.csproj",
       "projectName": "Dados",
-      "projectPath": "C:\\Users\\41346828865\\Encapsulamento\\Dados\\Dados.csproj",
+      "projectPath": "c:\\Users\\41346828865\\Encapsulamento\\Dados\\Dados.csproj",
       "packagesPath": "C:\\Users\\41346828865\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\41346828865\\Encapsulamento\\Dados\\obj\\",
+      "outputPath": "c:\\Users\\41346828865\\Encapsulamento\\Dados\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

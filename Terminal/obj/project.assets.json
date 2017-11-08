@@ -702,11 +702,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\41346828865\\Encapsulamento\\Terminal\\Terminal.csproj",
+      "projectUniqueName": "c:\\Users\\41346828865\\Encapsulamento\\Terminal\\Terminal.csproj",
       "projectName": "Terminal",
-      "projectPath": "C:\\Users\\41346828865\\Encapsulamento\\Terminal\\Terminal.csproj",
+      "projectPath": "c:\\Users\\41346828865\\Encapsulamento\\Terminal\\Terminal.csproj",
       "packagesPath": "C:\\Users\\41346828865\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\41346828865\\Encapsulamento\\Terminal\\obj\\",
+      "outputPath": "c:\\Users\\41346828865\\Encapsulamento\\Terminal\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -723,11 +723,11 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\41346828865\\Encapsulamento\\Dados\\Dados.csproj": {
-              "projectPath": "C:\\Users\\41346828865\\Encapsulamento\\Dados\\Dados.csproj"
+            "c:\\Users\\41346828865\\Encapsulamento\\Dados\\Dados.csproj": {
+              "projectPath": "c:\\Users\\41346828865\\Encapsulamento\\Dados\\Dados.csproj"
             },
-            "C:\\Users\\41346828865\\Encapsulamento\\util\\util.csproj": {
-              "projectPath": "C:\\Users\\41346828865\\Encapsulamento\\util\\util.csproj"
+            "c:\\Users\\41346828865\\Encapsulamento\\util\\util.csproj": {
+              "projectPath": "c:\\Users\\41346828865\\Encapsulamento\\util\\util.csproj"
             }
           }
         }
