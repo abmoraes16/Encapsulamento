@@ -1,0 +1,14 @@
+c:\Users\41346828865\Encapsulamento\Terminal\bin\Debug\netcoreapp2.0\Terminal.deps.json
+c:\Users\41346828865\Encapsulamento\Terminal\bin\Debug\netcoreapp2.0\Terminal.runtimeconfig.json
+c:\Users\41346828865\Encapsulamento\Terminal\bin\Debug\netcoreapp2.0\Terminal.runtimeconfig.dev.json
+c:\Users\41346828865\Encapsulamento\Terminal\bin\Debug\netcoreapp2.0\Terminal.dll
+c:\Users\41346828865\Encapsulamento\Terminal\bin\Debug\netcoreapp2.0\Terminal.pdb
+c:\Users\41346828865\Encapsulamento\Terminal\bin\Debug\netcoreapp2.0\Dados.dll
+c:\Users\41346828865\Encapsulamento\Terminal\bin\Debug\netcoreapp2.0\util.dll
+c:\Users\41346828865\Encapsulamento\Terminal\bin\Debug\netcoreapp2.0\Dados.pdb
+c:\Users\41346828865\Encapsulamento\Terminal\bin\Debug\netcoreapp2.0\util.pdb
+c:\Users\41346828865\Encapsulamento\Terminal\obj\Debug\netcoreapp2.0\Terminal.csproj.CoreCompileInputs.cache
+c:\Users\41346828865\Encapsulamento\Terminal\obj\Debug\netcoreapp2.0\Terminal.AssemblyInfoInputs.cache
+c:\Users\41346828865\Encapsulamento\Terminal\obj\Debug\netcoreapp2.0\Terminal.AssemblyInfo.cs
+c:\Users\41346828865\Encapsulamento\Terminal\obj\Debug\netcoreapp2.0\Terminal.dll
+c:\Users\41346828865\Encapsulamento\Terminal\obj\Debug\netcoreapp2.0\Terminal.pdb

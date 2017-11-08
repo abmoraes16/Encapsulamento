@@ -1,0 +1,8 @@
+c:\Users\41346828865\Encapsulamento\util\bin\Debug\netstandard2.0\util.deps.json
+c:\Users\41346828865\Encapsulamento\util\bin\Debug\netstandard2.0\util.dll
+c:\Users\41346828865\Encapsulamento\util\bin\Debug\netstandard2.0\util.pdb
+c:\Users\41346828865\Encapsulamento\util\obj\Debug\netstandard2.0\util.csproj.CoreCompileInputs.cache
+c:\Users\41346828865\Encapsulamento\util\obj\Debug\netstandard2.0\util.AssemblyInfoInputs.cache
+c:\Users\41346828865\Encapsulamento\util\obj\Debug\netstandard2.0\util.AssemblyInfo.cs
+c:\Users\41346828865\Encapsulamento\util\obj\Debug\netstandard2.0\util.dll
+c:\Users\41346828865\Encapsulamento\util\obj\Debug\netstandard2.0\util.pdb
